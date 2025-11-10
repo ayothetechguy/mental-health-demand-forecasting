@@ -1,0 +1,1001 @@
+date,health_board,age_group,simd_quintile,presentation_type,presentations,year,month,day_of_week,week_of_year,is_weekend
+2019-01-01,NHS Ayrshire and Arran,0-17,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,1,Self Harm,3,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,2,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,1,Depression,3,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,26-35,1,Self Harm,3,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,4,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,4,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,2,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,2,Self Harm,4,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,1,Eating Disorder,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,1,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,1,Suicidal Ideation,3,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,3,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,18-25,2,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,66-75,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,66-75,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,66-75,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,66-75,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,66-75,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,56-65,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,56-65,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,56-65,3,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,56-65,2,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,56-65,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,5,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,4,Other,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,2,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,1,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,2,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,2,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,46-55,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,2,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,2,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Highland,56-65,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,76+,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,0-17,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,0-17,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,0-17,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Fife,0-17,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,0-17,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,1,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,2,Psychosis,2,2019,1,1,1,0
+2019-01-01,NHS Highland,56-65,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,5,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,1,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,18-25,3,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Highland,56-65,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,46-55,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Highland,46-55,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,1,Suicidal Ideation,4,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Highland,0-17,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,0-17,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Highland,0-17,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Highland,0-17,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Highland,0-17,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,1,Suicidal Ideation,3,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Highland,18-25,5,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Highland,46-55,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Highland,46-55,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Highland,46-55,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Highland,36-45,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,36-45,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Highland,36-45,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,0-17,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Highland,36-45,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,5,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,3,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Highland,26-35,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Highland,36-45,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,2,Other,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,36-45,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,26-35,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,26-35,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,26-35,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,26-35,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,26-35,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,3,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,2,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,18-25,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,36-45,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,0-17,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,0-17,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,76+,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,66-75,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,66-75,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,3,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,1,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,56-65,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,0-17,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,36-45,2,Other,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,36-45,3,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,46-55,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Western Isles,36-45,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Western Isles,18-25,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Western Isles,18-25,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Borders,0-17,3,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,2,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Borders,18-25,5,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Borders,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Borders,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,26-35,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Borders,26-35,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Borders,26-35,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,46-55,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,46-55,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,46-55,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,56-65,1,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,56-65,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Dumfries and Galloway,66-75,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,66-75,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,46-55,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,46-55,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Borders,36-45,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Borders,36-45,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Borders,36-45,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,26-35,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Borders,56-65,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,2,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,2,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,2,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,2,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,1,Psychosis,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,1,Self Harm,3,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,5,Other,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,4,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,3,Eating Disorder,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,0-17,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,1,Acute Anxiety,3,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,3,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,2,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,2,Suicidal Ideation,3,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,2,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,18-25,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,4,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,3,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,2,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,46-55,1,Acute Anxiety,3,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,5,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,5,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,1,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,26-35,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,2,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,3,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Greater Glasgow and Clyde,36-45,1,Psychosis,3,2019,1,1,1,0
+2019-01-01,NHS Western Isles,36-45,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,26-35,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,2,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,2,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,4,Other,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,5,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,5,Other,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,1,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,4,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,36-45,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,26-35,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,5,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,3,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,3,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,2,Other,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,1,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,1,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,0-17,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,0-17,2,Other,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,0-17,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,0-17,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,0-17,1,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,0-17,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,0-17,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,0-17,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,4,Other,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,2,Other,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,2,Suicidal Ideation,3,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,2,Self Harm,3,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,1,Suicidal Ideation,4,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,1,Self Harm,4,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,18-25,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,3,Psychosis,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,1,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,3,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,36-45,1,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,36-45,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,36-45,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,46-55,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,46-55,1,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,46-55,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,46-55,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,46-55,3,Other,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,46-55,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,56-65,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,56-65,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,56-65,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,66-75,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,26-35,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,18-25,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,0-17,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,0-17,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,56-65,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,56-65,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,56-65,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,56-65,2,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,56-65,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,56-65,5,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,66-75,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,66-75,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,66-75,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,66-75,4,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,66-75,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,76+,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Forth Valley,0-17,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,0-17,1,Other,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,0-17,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,18-25,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,18-25,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,46-55,2,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Shetland,26-35,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,46-55,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,56-65,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,0-17,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,0-17,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,76+,2,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Lanarkshire,76+,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Shetland,26-35,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,4,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,56-65,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,56-65,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,56-65,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,4,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,46-55,1,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,5,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,56-65,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,2,Self Harm,3,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,1,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,3,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,76+,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,76+,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,66-75,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,5,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,3,Other,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,36-45,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,66-75,1,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,66-75,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,66-75,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,4,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,1,Suicidal Ideation,3,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,1,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,46-55,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,66-75,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,66-75,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,76+,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,76+,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,76+,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,66-75,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,66-75,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Fife,56-65,5,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Fife,56-65,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,56-65,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,56-65,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,56-65,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Fife,56-65,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Fife,66-75,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,56-65,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,1,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Grampian,0-17,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,0-17,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,0-17,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,0-17,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,0-17,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,0-17,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,18-25,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,18-25,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,18-25,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,26-35,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,46-55,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,46-55,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,56-65,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,5,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,18-25,5,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,1,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,1,Psychosis,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,2,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,3,Self Harm,2,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,66-75,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,66-75,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Orkney,56-65,3,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Tayside,26-35,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Fife,36-45,1,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,4,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,3,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,2,Other,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,1,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,46-55,1,Self Harm,3,2019,1,1,1,0
+2019-01-01,NHS Grampian,36-45,5,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,36-45,4,Other,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,36-45,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,36-45,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,36-45,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,5,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,3,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,4,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,18-25,2,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,3,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,3,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,3,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,3,Other,1,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,4,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Grampian,26-35,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Western Isles,46-55,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Lothian,36-45,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,76+,3,Other,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,46-55,5,Other,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,46-55,4,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,46-55,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,46-55,2,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,46-55,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,46-55,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,36-45,2,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,36-45,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,36-45,1,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,36-45,1,Acute Anxiety,2,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,26-35,3,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,26-35,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,26-35,1,Substance Abuse,2,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,26-35,1,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,5,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,4,Psychosis,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,3,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,3,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,2,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,1,Eating Disorder,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,1,Psychosis,3,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,18-25,1,Suicidal Ideation,2,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,0-17,3,Other,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,0-17,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,0-17,3,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,0-17,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,26-35,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,1,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,26-35,3,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,2,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,76+,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,66-75,4,Depression,2,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,66-75,1,Substance Abuse,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,76+,2,Self Harm,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,66-75,1,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,4,Depression,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,4,Suicidal Ideation,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,56-65,2,Acute Anxiety,1,2019,1,1,1,0
+2019-01-01,NHS Ayrshire and Arran,66-75,1,Acute Anxiety,1,2019,1,1,1,0
+2019-01-02,NHS Grampian,36-45,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,5,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,5,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,36-45,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,36-45,1,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,36-45,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,36-45,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,36-45,5,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,36-45,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,3,Depression,3,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,1,Self Harm,3,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,2,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,2,Suicidal Ideation,3,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,1,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,1,Acute Anxiety,3,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,5,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,3,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,3,Self Harm,3,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,1,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,0-17,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,0-17,1,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,26-35,2,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,18-25,3,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,46-55,4,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,3,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,5,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,1,Substance Abuse,3,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,1,Other,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,36-45,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,2,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,46-55,5,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,2,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,26-35,1,Suicidal Ideation,3,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,2,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,4,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,66-75,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,76+,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,76+,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,0-17,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Grampian,56-65,1,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Tayside,0-17,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,1,Suicidal Ideation,3,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,1,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,2,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Orkney,26-35,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,18-25,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Orkney,26-35,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Orkney,36-45,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Orkney,36-45,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,2,Depression,3,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,1,Psychosis,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,5,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,3,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,3,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,2,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,1,Psychosis,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,1,Suicidal Ideation,3,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,5,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,5,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,4,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,3,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,2,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,26-35,1,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,2,Self Harm,3,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,36-45,4,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Borders,18-25,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Borders,18-25,1,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Borders,18-25,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Borders,18-25,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Borders,26-35,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Borders,26-35,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Borders,36-45,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Borders,46-55,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Borders,46-55,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Borders,46-55,1,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Borders,46-55,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Borders,76+,4,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Borders,76+,5,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,76+,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,66-75,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,66-75,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,5,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,5,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,4,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,3,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,56-65,2,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,5,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,2,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,46-55,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,66-75,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,1,Acute Anxiety,3,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,66-75,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,66-75,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,56-65,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,46-55,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,46-55,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,46-55,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,46-55,1,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,4,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,2,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,1,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,56-65,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,36-45,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,1,Other,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,4,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,4,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,4,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,18-25,1,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Orkney,36-45,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Dumfries and Galloway,26-35,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,56-65,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,18-25,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,4,Psychosis,2,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lanarkshire,0-17,1,Other,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,0-17,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,0-17,4,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,18-25,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,18-25,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,18-25,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,18-25,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,18-25,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,18-25,5,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,26-35,1,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,2,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,1,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,46-55,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,56-65,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,36-45,5,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,36-45,3,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,36-45,2,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,36-45,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,26-35,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,26-35,2,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,26-35,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Ayrshire and Arran,36-45,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,56-65,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Fife,46-55,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,56-65,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,2,Eating Disorder,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Highland,66-75,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Highland,66-75,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,66-75,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,66-75,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Highland,46-55,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,46-55,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Highland,46-55,2,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Highland,46-55,2,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Highland,46-55,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Highland,36-45,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Highland,36-45,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Highland,26-35,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Highland,26-35,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Highland,26-35,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Highland,26-35,1,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Highland,26-35,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,3,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,2,Self Harm,3,2019,1,2,1,0
+2019-01-02,NHS Lothian,56-65,1,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,56-65,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,3,Other,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,2,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,2,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,1,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,1,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,1,Suicidal Ideation,5,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,1,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,4,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,3,Other,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,2,Depression,5,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,0-17,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,66-75,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,66-75,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,56-65,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,56-65,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,56-65,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,56-65,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Highland,18-25,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Highland,0-17,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,3,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,4,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,5,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,5,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,5,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,1,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,1,Other,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,2,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,2,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,36-45,5,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,1,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,1,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,2,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Highland,0-17,3,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Highland,0-17,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Highland,0-17,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,0-17,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,0-17,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,0-17,1,Other,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,0-17,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,0-17,5,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,1,Suicidal Ideation,3,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,1,Depression,4,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,2,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,2,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,3,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,3,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,4,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,5,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,18-25,5,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,1,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,2,Self Harm,4,2019,1,2,1,0
+2019-01-02,NHS Lothian,26-35,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,56-65,2,Depression,3,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,4,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,5,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,3,Eating Disorder,1,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,1,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,26-35,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,5,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,2,Other,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,2,Suicidal Ideation,3,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,1,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,1,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Fife,18-25,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,0-17,5,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Fife,0-17,4,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,0-17,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,0-17,2,Suicidal Ideation,2,2019,1,2,1,0
+2019-01-02,NHS Fife,0-17,1,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Fife,0-17,1,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,76+,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,76+,2,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,66-75,3,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,66-75,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,1,Depression,2,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,3,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,56-65,4,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,56-65,5,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,66-75,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,66-75,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,66-75,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Tayside,66-75,2,Substance Abuse,2,2019,1,2,1,0
+2019-01-02,NHS Tayside,66-75,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Lothian,46-55,1,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Fife,76+,3,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Fife,76+,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,66-75,4,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Fife,66-75,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,66-75,1,Psychosis,1,2019,1,2,1,0
+2019-01-02,NHS Fife,66-75,1,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Fife,56-65,3,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,56-65,1,Self Harm,1,2019,1,2,1,0
+2019-01-02,NHS Fife,46-55,4,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,46-55,2,Acute Anxiety,1,2019,1,2,1,0
+2019-01-02,NHS Fife,46-55,2,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Borders,18-25,1,Self Harm,2,2019,1,2,1,0
+2019-01-02,NHS Fife,46-55,1,Suicidal Ideation,1,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,5,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,4,Acute Anxiety,2,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,3,Substance Abuse,1,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,3,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Fife,36-45,2,Depression,1,2019,1,2,1,0
+2019-01-02,NHS Greater Glasgow and Clyde,18-25,4,Substance Abuse,1,2019,1,2,1,0
